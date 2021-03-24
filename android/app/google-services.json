@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "952623477416",
+    "firebase_url": "https://nearestcityofficial.firebaseio.com",
+    "project_id": "nearestcityofficial",
+    "storage_bucket": "nearestcityofficial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952623477416:android:a76dffc54964c30d39c89d",
+        "android_client_info": {
+          "package_name": "com.techon.nearest_city_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952623477416-qb8iea1frdc5hfb2sl7nph1n8u1m1lnm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRXA1hSnFeJI6z5yNAcajheGTACy1MSzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952623477416-qb8iea1frdc5hfb2sl7nph1n8u1m1lnm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952623477416:android:a9df3d69b86f047f39c89d",
+        "android_client_info": {
+          "package_name": "com.techon.nearest_city_rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952623477416-qb8iea1frdc5hfb2sl7nph1n8u1m1lnm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRXA1hSnFeJI6z5yNAcajheGTACy1MSzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952623477416-qb8iea1frdc5hfb2sl7nph1n8u1m1lnm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
